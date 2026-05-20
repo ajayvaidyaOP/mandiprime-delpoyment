@@ -120,7 +120,7 @@ sudo cp -r dist/* /var/www/html/
 ## Create Nginx Configuration File
 
 ```bash
-sudo nano /etc/nginx/sites-available/react-app
+sudo vim /etc/nginx/sites-available/react-app
 ```
 
 ## Add Configuration
